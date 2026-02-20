@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I'm Moubarak!</h1>
+<h1 align="left">Hey, I'm Moubarak!</h1>
 
 ###
 
@@ -29,9 +29,9 @@
 
 <p align="left">
   ✨ Writing production code since 2022<br><br>
-  🎓 <strong>MSc in Artificial Intelligence</strong> — ESCEP-Niger (2024)<br>
+  🎓 <strong>MSc in Artificial Intelligence</strong><br>
   🏆 <strong>African Development Bank (ADB) Excellence Scholarship</strong> recipient — DTS Fiber Optic Project<br>
-  🥉 <strong>Ranked 3rd in class</strong> — Engineer Analyst & Programmer Cycle, with Distinction (2021)<br>
+  🥉 <strong>Ranked 3rd in class</strong> — Engineer Analyst & Programmer Cycle, with Distinction<br>
   🏢 Currently working at <strong>Dev4Smart</strong> — designing and deploying full-cycle digital solutions<br><br>
   📚 Currently deepening expertise in <strong>AI-driven systems, secure API architecture & DevOps automation</strong><br>
   🎯 <strong>Goals:</strong> Build scalable, secure, and intelligent digital infrastructure for emerging ecosystems<br>
