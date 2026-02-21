@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Moubarak
+# Hi, I'm Moubarak
 
 ### `Solutions Developer Engineer` · Web & Mobile · DevOps · AI Systems
 
