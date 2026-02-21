@@ -1,257 +1,165 @@
-<h1 align="left">Hey, I'm Moubarak!</h1>
+<div align="center">
 
-###
+# 👋 Hi, I'm Moubarak
 
-<p align="left">
-  My name is <strong>ISSA IBRAHIM Moubarak</strong> and I'm a <strong>Solutions Developer Engineer – Web & Mobile | DevOps | AI Systems</strong>, from <strong>Niamey, Niger 🇳🇪</strong>
-</p>
+### `Solutions Developer Engineer` · Web & Mobile · DevOps · AI Systems
 
-###
-
-<div align="left">
+<p>
   <a href="https://issaibrahimmoubarak.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
-  </a>&nbsp;
-  <a href="mailto:issa.ibrahim@dev4smart.net" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;
-  <img src="https://img.shields.io/badge/Niamey%2C%20Niger-1F4E79?style=for-the-badge&logo=googlemaps&logoColor=white" />&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=IssaIbrahimMoubarak&color=1F4E79&style=for-the-badge" alt="profile views" />
-</div>
-
-###
-
----
-
-<h2 align="left">👨🏽‍💻 About Me</h2>
-
-###
-
-<p align="left">
-  ✨ Writing production code since 2022<br><br>
-  🎓 <strong>MSc in Artificial Intelligence</strong><br>
-  🏆 <strong>African Development Bank (ADB) Excellence Scholarship</strong> recipient — DTS Fiber Optic Project<br>
-  🥉 <strong>Ranked 3rd in class</strong> — Engineer Analyst & Programmer Cycle, with Distinction<br>
-  🏢 Currently working at <strong>Dev4Smart</strong> — designing and deploying full-cycle digital solutions<br><br>
-  📚 Currently deepening expertise in <strong>AI-driven systems, secure API architecture & DevOps automation</strong><br>
-  🎯 <strong>Goals:</strong> Build scalable, secure, and intelligent digital infrastructure for emerging ecosystems<br>
-  🌍 <strong>Languages:</strong> French 🇫🇷 · English 🇬🇧 · Hausa · Zarma<br>
-  ⚡ <strong>Fun fact:</strong> I ranked 3rd in my engineering class and received an international scholarship the same year 🎖️
+    <img src="https://img.shields.io/badge/🌐_Portfolio-0A0A0A?style=for-the-badge" />
+  </a>
+  <a href="mailto:issa.ibrahim@dev4smart.net">
+    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/📍_Niamey,_Niger-1F4E79?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Astuces-ops&color=1F4E79&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
-###
+</div>
 
 ---
 
-<h2 align="left">🚀 Current Focus</h2>
+## 🧠 About Me
 
-###
+```yaml
+name        : ISSA IBRAHIM Moubarak
+location    : Niamey, Niger 🇳🇪
+education   : MSc in Artificial Intelligence — ESCEP-Niger (2024)
+company     : Dev4Smart
+role        : Solutions Developer Engineer – Web & Mobile | DevOps | AI
+languages   : French · English · Hausa · Zarma
+```
 
-<table align="left">
-  <tr>
-    <td>🤖</td><td>AI-driven decision systems & intelligent automation</td>
-  </tr>
-  <tr>
-    <td>🔐</td><td>Secure and scalable REST API architectures</td>
-  </tr>
-  <tr>
-    <td>📱</td><td>Cross-platform mobile development (Flutter & React Native)</td>
-  </tr>
-  <tr>
-    <td>⚙️</td><td>DevOps automation & CI/CD pipeline optimization</td>
-  </tr>
-  <tr>
-    <td>📊</td><td>Data engineering pipelines & Business Intelligence</td>
-  </tr>
-</table>
-
-###
-<br><br><br><br><br><br><br><br>
+> 💡 *"Build systems that are scalable, secure, and impact-driven — aligned with digital transformation in emerging ecosystems."*
 
 ---
 
-<h2 align="left">🛠️ I Code With</h2>
+## 🚀 Current Focus
 
-###
-
-<h4 align="left">⚙️ Backend</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" title="Spring Boot" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" alt="Symfony" title="Symfony" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" title="Django" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" title="Flask" />
-</div>
-
-###
-
-<h4 align="left">🌐 Frontend & Mobile</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" title="Flutter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" title="Vue.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" title="Angular" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="WordPress" title="WordPress" />
-</div>
-
-###
-
-<h4 align="left">🤖 AI / Machine Learning</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" title="TensorFlow" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" title="PyTorch" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras" title="Keras" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" title="OpenCV" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB" title="MATLAB" />
-</div>
-
-###
-
-<h4 align="left">⚙️ DevOps & Infrastructure</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible" title="Ansible" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux (Ubuntu/Debian/Kali)" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="Ubuntu" title="Ubuntu" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab" title="GitLab CI/CD" />
-</div>
-
-###
-
-<h4 align="left">🗄️ Databases & BI</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" title="Oracle" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="30" alt="Power BI" title="Power BI" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/IBM_SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white" height="30" alt="IBM SPSS" title="IBM SPSS" />
-</div>
-
-###
-
-<h4 align="left">📋 Project Management</h4>
-<div align="left">
-  <img src="https://img.shields.io/badge/Scrum%2FAgile-1F4E79?style=flat-square&logo=scrumalliance&logoColor=white" height="30" title="SCRUM/Agile" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Microsoft_Project-217346?style=flat-square&logo=microsoft&logoColor=white" height="30" title="Microsoft Project" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" height="30" title="Trello" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/BPM-FF6C37?style=flat-square&logo=processmaker&logoColor=white" height="30" title="BPM" />
-</div>
-
-###
+| | Area |
+|--|------|
+| 🤖 | AI-driven decision systems & intelligent automation |
+| 🔐 | Secure and scalable REST API architectures |
+| 📱 | Cross-platform mobile development (Flutter & React Native) |
+| ⚙️ | DevOps automation & CI/CD pipeline optimization |
+| 📊 | Data engineering pipelines & Business Intelligence |
 
 ---
 
-<h2 align="left">💼 Professional Experience</h2>
+## 🛠️ Tech Stack
 
-###
+### ⚙️ Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+### 🌐 Frontend & Mobile
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+### 🤖 AI / Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+### ⚙️ DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+### 🗄️ Databases & BI
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![IBM SPSS](https://img.shields.io/badge/IBM_SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white)
+
+---
+
+## 💼 Professional Experience
 
 | Period | Company | Role |
 |--------|---------|------|
-| 🟢 Jan 2025 – Present | **Dev4Smart** | Solutions Developer Engineer – Web & Mobile |
-| 🔵 Aug 2024 – Jun 2025 | **KPB Education** | Scholarship Manager & General Secretary Assistant |
-| 🔵 Jun 2023 – Aug 2024 | **OptiSoft** | API Developer |
-| 🔵 Jun 2022 – Aug 2024 | **Sirba Communication** | Web Project Manager |
-
-###
+| 🟢 **Jan 2025 – Present** | **Dev4Smart** | Solutions Developer Engineer – Web & Mobile |
+| 🔵 Aug 2024 – Jun 2025 | KPB Education | Scholarship Manager & General Secretary Assistant |
+| 🔵 Jun 2023 – Aug 2024 | OptiSoft | API Developer |
+| 🔵 Jun 2022 – Aug 2024 | Sirba Communication | Web Project Manager |
 
 ---
 
-<h2 align="left">🏆 Highlights & Awards</h2>
-
-###
+## 🏆 Awards & Recognition
 
 | 🏅 | Achievement |
 |----|-------------|
 | 🎓 | MSc in Artificial Intelligence — ESCEP-Niger (2024) |
 | 🏆 | ADB Excellence Scholarship — Trans-Saharan Fiber Optic Backbone Project (2022) |
-| 🥉 | Ranked 3rd in class — Engineer Analyst & Programmer Cycle, with Distinction (2021) |
+| 🥉 | Ranked **3rd in class** — Engineer Analyst & Programmer Cycle, with Distinction (2021) |
 | 🏆 | ADB Academic Merit Scholarship (2021) |
 
-###
-
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
-###
+<div align="center">
 
-<div align="left">
-  <img width="49%" 
-       src="https://github-readme-stats.vercel.app/api?username=IssaIbrahimMoubarak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Astuces-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astuces-ops&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=495&cache_seconds=86400" />
 
-  <img width="49%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=IssaIbrahimMoubarak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=495&cache_seconds=86400" />
+<br/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Astuces-ops&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
 </div>
 
-<br>
+---
 
-<img width="49%" 
-     src="https://streak-stats.demolab.com?user=IssaIbrahimMoubarak&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+## 🐍 Contribution Graph
 
-###
+<div align="center">
+
+<!-- 
+  ⚠️ IMPORTANT: Pour activer le Pacman/Snake animé, tu dois créer ce GitHub Action.
+  Voir les instructions ci-dessous dans le README de setup.
+-->
+
+![Snake animation](https://raw.githubusercontent.com/Astuces-ops/Astuces-ops/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
-<h2 align="left">📫 Get in Touch</h2>
+## 📫 Get in Touch
 
-###
+<div align="center">
 
-<p align="left">
-  🌐 <strong>Portfolio:</strong> <a href="https://issaibrahimmoubarak.github.io/portfolio/">issaibrahimmoubarak.github.io/portfolio</a><br>
-  📧 <strong>Email:</strong> <a href="mailto:issa.ibrahim@dev4smart.net">issa.ibrahim@dev4smart.net</a><br>
-  📞 <strong>Phone:</strong> +227 80 77 12 26 / +227 88 30 77 68<br>
-  📍 <strong>Location:</strong> Sonuci, Niamey, Niger
-</p>
+| | |
+|--|--|
+| 🌐 **Portfolio** | [issaibrahimmoubarak.github.io/portfolio](https://issaibrahimmoubarak.github.io/portfolio/) |
+| 📧 **Email** | [issa.ibrahim@dev4smart.net](mailto:issa.ibrahim@dev4smart.net) |
+| 📞 **Phone** | +227 80 77 12 26 / +227 88 30 77 68 |
+| 📍 **Location** | Sonuci, Niamey, Niger |
 
-###
+</div>
 
 ---
 
-<p align="center">
-  <em>"Build systems that are scalable, secure, and impact-driven — aligned with digital transformation challenges in emerging ecosystems."</em>
-</p>
+<div align="center">
+  <sub>⭐ Si mes projets t'ont aidé, n'hésite pas à laisser une étoile !</sub>
+</div>
