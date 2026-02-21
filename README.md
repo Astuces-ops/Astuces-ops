@@ -66,7 +66,7 @@
 </table>
 
 ###
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ---
 
@@ -221,13 +221,17 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IssaIbrahimMoubarak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IssaIbrahimMoubarak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
+  <img width="49%" 
+       src="https://github-readme-stats.vercel.app/api?username=IssaIbrahimMoubarak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" />
+
+  <img width="49%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=IssaIbrahimMoubarak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=495&cache_seconds=86400" />
 </div>
 
-###
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IssaIbrahimMoubarak&theme=tokyonight&hide_border=true" height="160" />
+<img width="49%" 
+     src="https://streak-stats.demolab.com?user=IssaIbrahimMoubarak&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
 ###
 
