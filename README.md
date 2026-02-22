@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Moubarak
+# 👋 Hi, I'm Moubarak
 
 ### `Solutions Developer Engineer` · Web & Mobile · DevOps · AI Systems
 
@@ -28,6 +28,7 @@ education   : MSc in Artificial Intelligence — ESCEP-Niger (2024)
 company     : Dev4Smart
 role        : Solutions Developer Engineer – Web & Mobile | DevOps | AI
 languages   : French · English · Hausa · Zarma
+open_to     : Freelance · Collaboration · Research
 ```
 
 > 💡 *"Build systems that are scalable, secure, and impact-driven — aligned with digital transformation in emerging ecosystems."*
@@ -75,11 +76,13 @@ languages   : French · English · Hausa · Zarma
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 ### ⚙️ DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
@@ -90,6 +93,12 @@ languages   : French · English · Hausa · Zarma
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![IBM SPSS](https://img.shields.io/badge/IBM_SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white)
+
+### 📋 Project Management
+![Scrum](https://img.shields.io/badge/Scrum%2FAgile-1F4E79?style=flat-square&logo=scrumalliance&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-217346?style=flat-square&logo=microsoft&logoColor=white)
+![BPM](https://img.shields.io/badge/BPM-FF6C37?style=flat-square&logo=processmaker&logoColor=white)
 
 ---
 
@@ -119,12 +128,26 @@ languages   : French · English · Hausa · Zarma
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Astuces-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Astuces-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400&show=reviews,discussions_started,prs_merged,prs_merged_percentage" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astuces-ops&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=495&cache_seconds=86400" />
 
-<br/>
+<br/><br/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Astuces-ops&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<img width="98%" src="https://streak-stats.demolab.com?user=Astuces-ops&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+
+<br/><br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Astuces-ops&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Astuces-ops&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -134,12 +157,11 @@ languages   : French · English · Hausa · Zarma
 
 <div align="center">
 
-<!-- 
-  ⚠️ IMPORTANT: Pour activer le Pacman/Snake animé, tu dois créer ce GitHub Action.
-  Voir les instructions ci-dessous dans le README de setup.
--->
-
-![Snake animation](https://raw.githubusercontent.com/Astuces-ops/Astuces-ops/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astuces-ops/Astuces-ops/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Astuces-ops/Astuces-ops/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Astuces-ops/Astuces-ops/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
