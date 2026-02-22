@@ -128,16 +128,26 @@ open_to     : Freelance · Collaboration · Research
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Astuces-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astuces-ops&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Astuces-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400&show=reviews,discussions_started,prs_merged,prs_merged_percentage" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astuces-ops&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=495&cache_seconds=86400" />
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Astuces-ops&theme=tokyo-night&hide_border=true&area=true" />
+<img width="98%" src="https://streak-stats.demolab.com?user=Astuces-ops&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&date_format=j%20M%5B%20Y%5D&mode=weekly" />
 
 <br/><br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Astuces-ops&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Astuces-ops&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
