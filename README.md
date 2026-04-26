@@ -174,7 +174,7 @@ open_to     : Freelance · Collaboration · Research
 | | |
 |--|--|
 | 🌐 **Portfolio** | [issaibrahimmoubarak.github.io/portfolio](https://issaibrahimmoubarak.github.io/portfolio/) |
-| 📧 **Email** | [issa.ibrahim@dev4smart.net](mailto:issa.ibrahim@dev4smart.net) |
+| 📧 **Email** | [issa.ibrahim@dev4smart.net](mailto:2im.moubarak@gmail.com) |
 | 📞 **Phone** | +227 80 77 12 26 / +227 88 30 77 68 |
 | 📍 **Location** | Sonuci, Niamey, Niger |
 
