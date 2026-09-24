@@ -1,187 +1,188 @@
-<div align="center">
-
-# 👋 Hi, I'm Moubarak
-
-### `Solutions Developer Engineer` · Web & Mobile · DevOps · AI Systems
-
-<p>
-  <a href="https://issaibrahimmoubarak.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-0A0A0A?style=for-the-badge" />
-  </a>
-  <a href="mailto:issa.ibrahim@dev4smart.net">
-    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/📍_Niamey,_Niger-1F4E79?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=Astuces-ops&color=1F4E79&style=for-the-badge&label=PROFILE+VIEWS" />
+<!-- ========================= HEADER ========================= -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F4E79,100:58A6FF&height=220&section=header&text=Issa%20Ibrahim%20Moubarak&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Systems%20%26%20Data%20Engineer%20%C2%B7%20DevOps%20%C2%B7%20AI%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" />
 </p>
 
-</div>
+<p align="center">
+  <a href="https://issaibrahimmoubarak.github.io/portfolio/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Moubarak+%F0%9F%91%8B;Systems+%26+Data+Engineer+%40+GIE-CTI-NE;Web+%26+Mobile+Solutions+Developer;DevOps+%7C+CI%2FCD+%7C+Infrastructure+Automation;AI+Engineer+%C2%B7+MSc+in+Artificial+Intelligence;ISOC+2026+Community+Advocacy+Fellow" alt="Typing SVG" />
+  </a>
+</p>
 
----
+<p align="center">
+  <a href="https://issaibrahimmoubarak.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="mailto:issa.ibrahim@dev4smart.net"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Astuces-ops"><img src="https://img.shields.io/github/followers/Astuces-ops?label=Followers&style=for-the-badge&logo=github&color=181717" /></a>
+  <img src="https://img.shields.io/badge/Niamey,_Niger-1F4E79?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
-## 🧠 About Me
+<p align="center">
+  <img src="https://img.shields.io/badge/ISOC_Fellow-2026-0A66C2?style=flat-square&logo=internetarchive&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSc-Artificial_Intelligence-8A2BE2?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_to-Freelance_%7C_Research-2EA043?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Astuces-ops&color=1F4E79&style=flat-square&label=Profile+views" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28"> About Me
 
 ```yaml
-name        : ISSA IBRAHIM Moubarak
-location    : Niamey, Niger 🇳🇪
-education   : MSc in Artificial Intelligence — ESCEP-Niger (2024)
-company     : Dev4Smart
-role        : Solutions Developer Engineer – Web & Mobile | DevOps | AI
-languages   : French · English · Hausa · Zarma
-open_to     : Freelance · Collaboration · Research
+name         : ISSA IBRAHIM Moubarak
+location     : Niamey, Niger 🇳🇪
+current_role : Systems & Data Engineer @ GIE-CTI-NE
+focus        : Infrastructure for microfinance institutions (SFD) under BCEAO supervision
+education    :
+  - MSc in Artificial Intelligence, ESCEP-Niger (2024)
+  - Engineer Analyst & Programmer, IAI-Niger (2021)
+languages    : [French, English, Hausa, Zarma]
+open_to      : [Freelance, Collaboration, Research]
 ```
 
-> 💡 *"Build systems that are scalable, secure, and impact-driven — aligned with digital transformation in emerging ecosystems."*
+> 💡 *"Build systems that are scalable, secure and impact-driven, aligned with digital transformation in emerging ecosystems."*
 
----
+<details>
+<summary><b>🌍 Advocacy: Infrastructure Sovereignty as a Digital Right</b></summary>
+<br>
+
+As a **2026 ISOC Community Advocacy Fellow** (Open Internet track), I advocate for the sovereign hosting of critical public digital systems in Francophone West Africa, drawing on hands-on experience with national health information systems (eCHIS / CommCare).
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Current Focus
 
-| | Area |
-|--|------|
-| 🤖 | AI-driven decision systems & intelligent automation |
-| 🔐 | Secure and scalable REST API architectures |
-| 📱 | Cross-platform mobile development (Flutter & React Native) |
-| ⚙️ | DevOps automation & CI/CD pipeline optimization |
-| 📊 | Data engineering pipelines & Business Intelligence |
+| | Area | Details |
+|:--:|------|---------|
+| 🏦 | **Financial infrastructure** | Reliable, compliant systems for microfinance (SFD) |
+| 🤖 | **AI & automation** | AI-driven decision systems, intelligent automation |
+| 🔐 | **Secure APIs** | Scalable REST architectures, authentication, hardening |
+| 📱 | **Cross-platform mobile** | Flutter & React Native |
+| ⚙️ | **DevOps** | CI/CD pipelines, containerization, Ansible automation |
+| 📊 | **Data & BI** | Data engineering pipelines, dashboards, reporting |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
-### ⚙️ Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+<h4 align="center">⚙️ Backend</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,spring,nodejs,php,symfony,django,flask&theme=dark&perline=8" />
+</p>
 
-### 🌐 Frontend & Mobile
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+<h4 align="center">🌐 Frontend & Mobile</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,flutter,vue,angular,bootstrap,wordpress&theme=dark&perline=8" />
+</p>
 
-### 🤖 AI / Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+<h4 align="center">🤖 AI / Machine Learning</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,matlab&theme=dark&perline=8" />
+  <br>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+</p>
 
-### ⚙️ DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+<h4 align="center">🐳 DevOps & Infrastructure</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,ansible,linux,ubuntu,git,github,gitlab&theme=dark&perline=8" />
+</p>
 
-### 🗄️ Databases & BI
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![IBM SPSS](https://img.shields.io/badge/IBM_SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white)
+<h4 align="center">🗄️ Databases & BI</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+  <br>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/IBM_SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white" />
+</p>
 
-### 📋 Project Management
-![Scrum](https://img.shields.io/badge/Scrum%2FAgile-1F4E79?style=flat-square&logo=scrumalliance&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
-![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-217346?style=flat-square&logo=microsoft&logoColor=white)
-![BPM](https://img.shields.io/badge/BPM-FF6C37?style=flat-square&logo=processmaker&logoColor=white)
+<h4 align="center">📋 Project Management</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Scrum%2FAgile-1F4E79?style=flat-square&logo=scrumalliance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS_Project-217346?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/BPM-FF6C37?style=flat-square&logo=processmaker&logoColor=white" />
+</p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💼 Professional Experience
 
-| Period | Company | Role |
-|--------|---------|------|
-| 🟢 **Jan 2025 – Present** | **Dev4Smart** | Solutions Developer Engineer – Web & Mobile |
-| 🔵 Aug 2024 – Jun 2025 | KPB Education | Scholarship Manager & General Secretary Assistant |
-| 🔵 Jun 2023 – Aug 2024 | OptiSoft | API Developer |
-| 🔵 Jun 2022 – Aug 2024 | Sirba Communication | Web Project Manager |
-
----
+| Period | Company | Role | Status |
+|--------|---------|------|:------:|
+| **Jun 2026 → Present** | **GIE-CTI-NE** · *Centre de Traitement Informatique du Niger* | Systems & Data Engineer | ![Current](https://img.shields.io/badge/Current-2EA043?style=flat-square) |
+| Jan 2025 → Jun 2026 | **Dev4Smart** | Systems & Data Administrator · DevOps Team Lead | ![Done](https://img.shields.io/badge/Completed-6E7681?style=flat-square) |
+| Aug 2024 → Jun 2025 | **KPB Education** | Scholarship Manager & General Secretary Assistant | ![Done](https://img.shields.io/badge/Completed-6E7681?style=flat-square) |
+| Jun 2023 → Aug 2024 | **OptiSoft** | API Developer | ![Done](https://img.shields.io/badge/Completed-6E7681?style=flat-square) |
+| Jun 2022 → Aug 2024 | **Sirba Communication** | Web Project Manager | ![Done](https://img.shields.io/badge/Completed-6E7681?style=flat-square) |
 
 ## 🏆 Awards & Recognition
 
-| 🏅 | Achievement |
-|----|-------------|
-| 🎓 | MSc in Artificial Intelligence — ESCEP-Niger (2024) |
-| 🏆 | ADB Excellence Scholarship — Trans-Saharan Fiber Optic Backbone Project (2022) |
-| 🥉 | Ranked **3rd in class** — Engineer Analyst & Programmer Cycle, with Distinction (2021) |
-| 🏆 | ADB Academic Merit Scholarship (2021) |
+| | Achievement | Year |
+|:--:|-------------|:----:|
+| 🌐 | **ISOC Community Advocacy Fellow**, Open Internet track (Kigali workshop) | 2026 |
+| 🎓 | **MSc in Artificial Intelligence**, ESCEP-Niger | 2024 |
+| 🏆 | **ADB Excellence Scholarship**, Trans-Saharan Fiber Optic Backbone Project | 2022 |
+| 🥉 | Ranked **3rd in class** with Distinction, Engineer Analyst & Programmer Cycle, IAI-Niger | 2021 |
+| 🏅 | **ADB Academic Merit Scholarship** | 2021 |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Astuces-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astuces-ops&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Astuces-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400&show=reviews,discussions_started,prs_merged,prs_merged_percentage" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astuces-ops&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=495&cache_seconds=86400" />
+<p align="center">
+  <img width="98%" src="https://streak-stats.demolab.com?user=Astuces-ops&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&mode=weekly" />
+</p>
 
-<br/><br/>
-
-<img width="98%" src="https://streak-stats.demolab.com?user=Astuces-ops&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&date_format=j%20M%5B%20Y%5D&mode=weekly" />
-
-<br/><br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Astuces-ops&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Astuces-ops&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+  </a>
+</p>
 
 ## 📈 Activity Graph
 
-<div align="center">
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Astuces-ops&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&color=58A6FF&line=1F4E79&point=FFFFFF" />
+</p>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Astuces-ops&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🐍 Contribution Snake
 
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astuces-ops/Astuces-ops/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Astuces-ops/Astuces-ops/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Astuces-ops/Astuces-ops/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
 
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astuces-ops/Astuces-ops/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Astuces-ops/Astuces-ops/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Astuces-ops/Astuces-ops/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📫 Get in Touch
 
-<div align="center">
+<p align="center">
+  <a href="https://issaibrahimmoubarak.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-issaibrahimmoubarak.github.io-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <br>
+  <a href="mailto:issa.ibrahim@dev4smart.net"><img src="https://img.shields.io/badge/Pro-issa.ibrahim@dev4smart.net-D14836?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+  <a href="mailto:2im.moubarak@gmail.com"><img src="https://img.shields.io/badge/Gmail-2im.moubarak@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <br>
+  <a href="tel:+22780771226"><img src="https://img.shields.io/badge/Phone-+227_80_77_12_26-25D366?style=for-the-badge&logo=phone&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Sonuci,_Niamey-1F4E79?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
-| | |
-|--|--|
-| 🌐 **Portfolio** | [issaibrahimmoubarak.github.io/portfolio](https://issaibrahimmoubarak.github.io/portfolio/) |
-| 📧 **Email** | [issa.ibrahim@dev4smart.net](mailto:2im.moubarak@gmail.com) |
-| 📞 **Phone** | +227 80 77 12 26 / +227 88 30 77 68 |
-| 📍 **Location** | Sonuci, Niamey, Niger |
+<p align="center">
+  <sub>⭐ If my projects helped you, feel free to leave a star! · Si mes projets t'ont aidé, n'hésite pas à laisser une étoile !</sub>
+</p>
 
-</div>
-
----
-
-<div align="center">
-  <sub>⭐ Si mes projets t'ont aidé, n'hésite pas à laisser une étoile !</sub>
-</div>
+<!-- ========================= FOOTER ========================= -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F4E79,100:0D1117&height=120&section=footer" />
+</p>
