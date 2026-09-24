@@ -1,6 +1,6 @@
 <!-- ========================= HEADER ========================= -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F4E79,100:58A6FF&height=220&section=header&text=Issa%20Ibrahim%20Moubarak&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Systems%20%26%20Data%20Engineer%20%C2%B7%20DevOps%20%C2%B7%20AI%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" />
+  <img width="100%" src="./assets/header.svg" alt="Issa Ibrahim Moubarak" />
 </p>
 
 <p align="center">
@@ -134,8 +134,8 @@ As a **2026 ISOC Community Advocacy Fellow** (Open Internet track), I advocate f
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Astuces-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astuces-ops&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+  <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -184,5 +184,5 @@ As a **2026 ISOC Community Advocacy Fellow** (Open Internet track), I advocate f
 
 <!-- ========================= FOOTER ========================= -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F4E79,100:0D1117&height=120&section=footer" />
+  <img width="100%" src="./assets/footer.svg" alt="footer" />
 </p>
