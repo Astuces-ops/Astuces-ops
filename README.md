@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://issaibrahimmoubarak.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-  <a href="mailto:i.moubarak@cti-ne.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:@cti-ne.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Astuces-ops"><img src="https://img.shields.io/github/followers/Astuces-ops?label=Followers&style=for-the-badge&logo=github&color=181717" /></a>
   <img src="https://img.shields.io/badge/Niamey,_Niger-1F4E79?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
@@ -180,7 +180,7 @@ As a **2026 ISOC Community Advocacy Fellow** (Open Internet track), I advocate f
 <p align="center">
   <a href="https://issaibrahimmoubarak.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-issaibrahimmoubarak.github.io-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
   <br>
-  <a href="mailto:i.moubarak@cti-ne.com"><img src="https://img.shields.io/badge/Pro-i.moubarak@cti-ne.com-D14836?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+  <a href="mailto:i.moubarak@cti-ne.com"><img src="https://img.shields.io/badge/Pro-issa.ibrahim@dev4smart.net-D14836?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
   <a href="mailto:2im.moubarak@gmail.com"><img src="https://img.shields.io/badge/Gmail-2im.moubarak@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <br>
   <a href="tel:+22780771226"><img src="https://img.shields.io/badge/Phone-+227_80_77_12_26-25D366?style=for-the-badge&logo=phone&logoColor=white" /></a>
