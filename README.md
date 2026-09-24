@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://issaibrahimmoubarak.github.io/portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Moubarak+%F0%9F%91%8B;Systems+%26+Data+Engineer+%40+GIE-CTI-NE;Web+%26+Mobile+Solutions+Developer;DevOps+%7C+CI%2FCD+%7C+Infrastructure+Automation;AI+Engineer+%C2%B7+MSc+in+Artificial+Intelligence;ISOC+2026+Community+Advocacy+Fellow" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi+there%2C+I%27m+Moubarak+%F0%9F%91%8B;AI+Engineer+%7C+Data+Scientist;Software+Engineer+%7C+DevOps+%7C+MLOps;Supporting+Data+%26+AI+Platforms;CI%2FCD+%26+Cloud+Infrastructure;Team+Lead+%C2%B7+ISOC+2026+Fellow" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,6 +14,16 @@
   <a href="mailto:issa.ibrahim@dev4smart.net"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Astuces-ops"><img src="https://img.shields.io/github/followers/Astuces-ops?label=Followers&style=for-the-badge&logo=github&color=181717" /></a>
   <img src="https://img.shields.io/badge/Niamey,_Niger-1F4E79?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Engineer-8A2BE2?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Scientist-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software_Engineer-1F4E79?style=flat-square&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD_%26_Cloud-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Team_Lead-2EA043?style=flat-square&logo=githubsponsors&logoColor=white" />
 </p>
 
 <p align="center">
@@ -30,6 +40,8 @@
 ```yaml
 name         : ISSA IBRAHIM Moubarak
 location     : Niamey, Niger 🇳🇪
+headline     : AI Engineer | Data Scientist | Software Engineer | DevOps | MLOps | Team Lead
+mission      : Supporting Data and AI Platforms
 current_role : Systems & Data Engineer @ GIE-CTI-NE
 focus        : Infrastructure for microfinance institutions (SFD) under BCEAO supervision
 education    :
@@ -55,12 +67,13 @@ As a **2026 ISOC Community Advocacy Fellow** (Open Internet track), I advocate f
 
 | | Area | Details |
 |:--:|------|---------|
+| 🤖 | **AI Engineering** | AI-driven decision systems, intelligent automation |
+| 📊 | **Data Science & Data Platforms** | Data pipelines, analytics and BI, supporting Data & AI platforms |
+| 🔁 | **MLOps** | Deploying, monitoring and maintaining models in production |
+| ☁️ | **CI/CD & Cloud Infrastructure** | Automated pipelines, containerization, Ansible automation |
 | 🏦 | **Financial infrastructure** | Reliable, compliant systems for microfinance (SFD) |
-| 🤖 | **AI & automation** | AI-driven decision systems, intelligent automation |
 | 🔐 | **Secure APIs** | Scalable REST architectures, authentication, hardening |
-| 📱 | **Cross-platform mobile** | Flutter & React Native |
-| ⚙️ | **DevOps** | CI/CD pipelines, containerization, Ansible automation |
-| 📊 | **Data & BI** | Data engineering pipelines, dashboards, reporting |
+| 👥 | **Team Lead** | Technical leadership of delivery teams |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -142,11 +155,6 @@ As a **2026 ISOC Community Advocacy Fellow** (Open Internet track), I advocate f
   <img width="98%" src="https://streak-stats.demolab.com?user=Astuces-ops&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&mode=weekly" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Astuces-ops&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
-  </a>
-</p>
 
 ## 📈 Activity Graph
 
