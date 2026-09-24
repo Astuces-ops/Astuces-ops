@@ -1,6 +1,6 @@
 <!-- ========================= HEADER ========================= -->
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Astuces-ops/Astuces-ops/main/assets/header.svg" alt="Issa Ibrahim Moubarak" />
+  <img width="100%" src="./assets/header.svg" alt="Issa Ibrahim Moubarak" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://issaibrahimmoubarak.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-  <a href="mailto:@cti-ne.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:i.moubarak@cti-ne.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Astuces-ops"><img src="https://img.shields.io/github/followers/Astuces-ops?label=Followers&style=for-the-badge&logo=github&color=181717" /></a>
   <img src="https://img.shields.io/badge/Niamey,_Niger-1F4E79?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
@@ -148,8 +148,8 @@ As a **2026 ISOC Community Advocacy Fellow** (Open Internet track), I advocate f
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://raw.githubusercontent.com/Astuces-ops/Astuces-ops/main/profile/stats.svg" alt="GitHub stats" />
-  <img height="170" src="https://raw.githubusercontent.com/Astuces-ops/Astuces-ops/main/profile/top-langs.svg" alt="Top languages" />
+  <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -160,7 +160,7 @@ As a **2026 ISOC Community Advocacy Fellow** (Open Internet track), I advocate f
 ## 📈 Activity Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Astuces-ops&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&color=58A6FF&line=1F4E79&point=FFFFFF" />
+  <img width="100%" src="./profile/activity.svg" alt="Activity graph" />
 </p>
 
 ## 🐍 Contribution Snake
@@ -180,7 +180,7 @@ As a **2026 ISOC Community Advocacy Fellow** (Open Internet track), I advocate f
 <p align="center">
   <a href="https://issaibrahimmoubarak.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-issaibrahimmoubarak.github.io-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
   <br>
-  <a href="mailto:i.moubarak@cti-ne.com"><img src="https://img.shields.io/badge/Pro-issa.ibrahim@dev4smart.net-D14836?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+  <a href="mailto:i.moubarak@cti-ne.com"><img src="https://img.shields.io/badge/Pro-i.moubarak@cti--ne.com-D14836?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
   <a href="mailto:2im.moubarak@gmail.com"><img src="https://img.shields.io/badge/Gmail-2im.moubarak@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <br>
   <a href="tel:+22780771226"><img src="https://img.shields.io/badge/Phone-+227_80_77_12_26-25D366?style=for-the-badge&logo=phone&logoColor=white" /></a>
@@ -193,5 +193,5 @@ As a **2026 ISOC Community Advocacy Fellow** (Open Internet track), I advocate f
 
 <!-- ========================= FOOTER ========================= -->
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Astuces-ops/Astuces-ops/main/assets/footer.svg" alt="footer" />
+  <img width="100%" src="./assets/footer.svg" alt="footer" />
 </p>
