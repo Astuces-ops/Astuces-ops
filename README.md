@@ -1,6 +1,6 @@
 <!-- ========================= HEADER ========================= -->
 <p align="center">
-  <img width="100%" src="./assets/header.svg" alt="Issa Ibrahim Moubarak" />
+  <img width="100%" src="https://raw.githubusercontent.com/Astuces-ops/Astuces-ops/main/assets/header.svg" alt="Issa Ibrahim Moubarak" />
 </p>
 
 <p align="center">
@@ -42,7 +42,8 @@ name         : ISSA IBRAHIM Moubarak
 location     : Niamey, Niger 🇳🇪
 headline     : AI Engineer | Data Scientist | Software Engineer | DevOps | MLOps | Team Lead
 mission      : Supporting Data and AI Platforms
-current_role : Systems & Data Engineer @ GIE-CTI-NE
+current_role : Software Engineer @ GIE-CTI-NE
+scope        : [Software engineering, Data engineering, IT systems & operations]
 focus        : Infrastructure for microfinance institutions (SFD) under BCEAO supervision
 education    :
   - MSc in Artificial Intelligence, ESCEP-Niger (2024)
@@ -126,8 +127,8 @@ As a **2026 ISOC Community Advocacy Fellow** (Open Internet track), I advocate f
 
 | Period | Company | Role | Status |
 |--------|---------|------|:------:|
-| **Jun 2026 → Present** | **GIE-CTI-NE** · *Centre de Traitement Informatique du Niger* | Systems & Data Engineer | ![Current](https://img.shields.io/badge/Current-2EA043?style=flat-square) |
-| Jan 2025 → Jun 2026 | **Dev4Smart** | Systems & Data Administrator · DevOps Team Lead | ![Done](https://img.shields.io/badge/Completed-6E7681?style=flat-square) |
+| **Jun 2026 → Present** | **GIE-CTI-NE** · *Centre de Traitement Informatique du Niger* | **Software Engineer**<br><sub>Data engineering · IT systems & operations</sub> | ![Current](https://img.shields.io/badge/Current-2EA043?style=flat-square) |
+| Jan 2025 → Jun 2026 | **DEV4SMART** | Systems & Data Administrator · DevOps Team Lead | ![Done](https://img.shields.io/badge/Completed-6E7681?style=flat-square) |
 | Aug 2024 → Jun 2025 | **KPB Education** | Scholarship Manager & General Secretary Assistant | ![Done](https://img.shields.io/badge/Completed-6E7681?style=flat-square) |
 | Jun 2023 → Aug 2024 | **OptiSoft** | API Developer | ![Done](https://img.shields.io/badge/Completed-6E7681?style=flat-square) |
 | Jun 2022 → Aug 2024 | **Sirba Communication** | Web Project Manager | ![Done](https://img.shields.io/badge/Completed-6E7681?style=flat-square) |
@@ -147,8 +148,8 @@ As a **2026 ISOC Community Advocacy Fellow** (Open Internet track), I advocate f
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
-  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
+  <img height="170" src="https://raw.githubusercontent.com/Astuces-ops/Astuces-ops/main/profile/stats.svg" alt="GitHub stats" />
+  <img height="170" src="https://raw.githubusercontent.com/Astuces-ops/Astuces-ops/main/profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -192,5 +193,5 @@ As a **2026 ISOC Community Advocacy Fellow** (Open Internet track), I advocate f
 
 <!-- ========================= FOOTER ========================= -->
 <p align="center">
-  <img width="100%" src="./assets/footer.svg" alt="footer" />
+  <img width="100%" src="https://raw.githubusercontent.com/Astuces-ops/Astuces-ops/main/assets/footer.svg" alt="footer" />
 </p>
