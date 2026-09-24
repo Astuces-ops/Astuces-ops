@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Merci de votre visite">
+  <defs>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1F4E79"/>
+      <stop offset="0.5" stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#8A2BE2"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 60 C 200 20, 400 100, 600 60 S 1000 20, 1200 60 L1200 120 L0 120 Z" fill="url(#wave)" fill-opacity="0.18"/>
+  <path d="M0 78 C 220 40, 420 118, 640 80 S 1020 44, 1200 84 L1200 120 L0 120 Z" fill="url(#wave)" fill-opacity="0.35"/>
+  <path d="M0 96 C 240 66, 460 126, 680 98 S 1040 72, 1200 102 L1200 120 L0 120 Z" fill="url(#wave)"/>
+  <text x="600" y="40" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#8B949E">Merci de votre visite, construisons des systèmes utiles et souverains.</text>
+</svg>
